@@ -46,7 +46,7 @@ int main(int argc, const char** argv) {
                 // int res = custom_pow(base, pow);    // TODO: Implement me
 
                 // printf("%i\n", res);
-                printf("Hello world!");
+                printf("Hello world! !!!!!");
             } else {
                 return ERR_ARGS_COUNT;
             }
